@@ -1,2 +1,3 @@
 # cen4802
-Marcus Anderson
+Marcus Anderson.
+Software integration, configuration, and testing
