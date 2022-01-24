@@ -2,7 +2,19 @@ package Mod2_Fibo;
 
 import java.util.Scanner;
 
+/**
+ * 
+ * @author Marcus D Anderson
+ *
+ */
+
 public class Mod2Fibo {
+	/**
+	 * This is a code for calculating the Nth term in the Fibonnaci sequence using the recursive method. 
+	 * 
+	 * @param n
+	 * @return
+	 */
 	static int fibo(int n) {
 		if (n <= 1)
 			return n;
